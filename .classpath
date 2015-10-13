@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignature/woan.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/groovy363/WoanSignatureTest/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
